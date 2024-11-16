@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 
 MAINTAINER David Currie <david_currie@uk.ibm.com> (@dcurrie)
 
